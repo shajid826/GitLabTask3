@@ -1,1 +1,1 @@
-# GitLabTask2 Project
+# GitLabTask Project
